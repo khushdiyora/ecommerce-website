@@ -1,9 +1,5 @@
 # An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/khushdiyora/ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/khushdiyora/ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/khushdiyora/ecommerce-website?style=social)
-
 
 This is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
